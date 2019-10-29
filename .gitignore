@@ -1,0 +1,6 @@
+# Others
+.idea/
+*.sqlite3
+node_modules/
+.vscode
+db.sqlite3

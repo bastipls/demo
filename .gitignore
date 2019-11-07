@@ -5,3 +5,5 @@ node_modules/
 .vscode
 db.sqlite3
 myvenv
+media
+db.sqlite3
